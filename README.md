@@ -1,45 +1,24 @@
-# Project Name
+# About Me
 
-![Project Logo](https://www.shutterstock.com/image-vector/cartoon-beard-handsome-character-casual-600nw-2174922633.jpg)
+![Profile Image](https://www.shutterstock.com/image-vector/cartoon-beard-handsome-character-casual-600nw-2174922633.jpg)
 
-> Brief description of your project. This project aims to...
+Hi, I'm **Yash Mahtre**! 👋 I’m a developer with a passion for building innovative applications and exploring cutting-edge technology. Currently, I’m working on a variety of projects, including voice-based AI assistants, POS systems, and a YouTube-like web app built with Next.js and Node.js. My expertise includes:
 
----
-
-## 🌟 Features
-
-- 📜 **Feature 1**: Describe your first feature here.
-- 🔧 **Feature 2**: Describe your second feature.
-- 🌐 **Feature 3**: Describe the third feature.
-- 💬 **Feature 4**: Describe the fourth feature.
+- 💻 Full-Stack Development
+- 🧠 AI and Machine Learning Integration
+- 📱 App and Web Development
+- 🎮 Interest in Gaming and Entertainment Startups
 
 ---
 
-## 📸 Screenshots
+## 📄 Resume
 
-| Home Page | User Profile | Settings Page |
-| --------- | ------------ | ------------- |
-| ![Home Page](https://placekitten.com/300/200) | ![Profile](https://placekitten.com/300/200) | ![Settings](https://placekitten.com/300/200) |
+For a full overview of my professional background, skills, and experience, please see my [resume](link-to-resume-file.pdf) or contact me directly.
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect with Me
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- **Node.js** and **npm**: Ensure you have Node.js and npm installed. [Download here](https://nodejs.org/).
-
-### Installation
-
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/yourusername/yourproject.git
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+- **Email**: your-email@example.com
+- **GitHub**: [@yourusername](https://github.com/yourusername)
