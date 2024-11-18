@@ -3,10 +3,7 @@
 
 
 
-
-<p align="left">
-  <img align="left" src="https://example.com/your-other-image.png" width="200px">
-</p>
+<br>
 
 <ul align="right">
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;👋 Hi, I’m **Yash Mahtre**...</li>
